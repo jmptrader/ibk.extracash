@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<host>
+	<told91 idOperacion="SIMULACION-TC-VISA-ASAT-4913370001238000">
+		<field id="CTRANS-DESP" len="4">RNMC</field>
+		<field id="CTRANSID" len="8">        </field>
+		<field id="CLOG-TERM" len="7">0000000</field>
+		<field id="FTERM" len="8">20130606</field>
+		<field id="HTERM" len="6">145400</field>
+		<field id="CRED" len="2">IS</field>
+		<field id="COFICINA" len="4">9960</field>
+		<field id="CUSERID" len="8">IB000001</field>
+		<field id="CSUPERVID" len="8">        </field>
+		<field id="GSECONDT" len="1"> </field>
+		<field id="GAUTORIZ" len="1">N</field>
+		<field id="CLOG-EXT" len="7">0000000</field>
+		<field id="CLOG-TERM-EXT" len="7">0000000</field>
+		<field id="GEXT" len="1">N</field>
+		<field id="GCAS" len="1">N</field>
+		<field id="QSEQ" len="1">1</field>
+		<field id="PROGRAMA" len="8">RNCOEXCA</field>
+		<field id="LAYOUT-INP" len="8">RNCOEXCA</field>
+		<field id="TRAMA-TOLD" len="1">A</field>
+		<field id="IND-TXFIRMA" len="1">N</field>
+		<field id="FILLER" len="58">                                                          </field>
+		<field id="ECASH" len="838">
+			<!-- ECASH CABECERA -->
+			<field id="C-IDE-PROD">EC</field>
+			<field id="C-RC">00</field>
+			<field id="C-DES-RC">                                                                                </field>
+			<field id="C-IND-FUNC">S</field>
+			<field id="C-NUM-TEXT">000000000000</field>
+			<field id="C-COD-CANA">IS</field>
+			<field id="C-COD-USUA">IB000001</field>
+			<field id="C-COD-AGEN">996</field>
+			<!-- ECASH CABECERA -->
+			<!-- ECASH INPUT -->
+			<field id="I-NUM-PMC">000000000020</field>
+			<field id="I-FEC-PMC">20130606</field>
+			<field id="I-HOR-PMC">145400</field>
+			<field id="I-COD-TPMC">000020</field>
+			<field id="I-NUM-DNI">        </field>
+			<field id="I-TIP-TARJ">C</field>
+			<field id="I-NUM-TARJ" len="20">4913370001238000    </field>
+			<field id="I-NUM-CUEN" len="16">                </field>
+			<field id="I-COD-BANC">003</field>
+			<field id="I-COD-MONE">001</field>
+			<field id="I-TIP-PROD">002</field>
+			<field id="I-NUM-CUOT">18</field>
+			<field id="I-IMP-CUOT">000000000000000</field>
+			<field id="I-IMP-EXTR">000000000000000</field>
+			<field id="I-IMP-RETI">000000000000000</field>
+			<field id="I-IMP-DEPO">000000000000000</field>
+			<field id="I-IND-CNUE">N</field>
+			<field id="I-IND-DEPO">S</field>
+			<field id="I-IND-RETI">S</field>
+			<field id="I-DIS-FILLER">                                                                                  </field>
+			<!-- ECASH INPUT -->
+		</field>
+	</told91>
+	<told91 idOperacion="SIMULACION-TC-VISA-NSAT-4218130500167619">
+		<field id="CTRANS-DESP" len="4">RNMC</field>
+		<field id="CTRANSID" len="8">        </field>
+		<field id="CLOG-TERM" len="7">0000000</field>
+		<field id="FTERM" len="8">20130606</field>
+		<field id="HTERM" len="6">145400</field>
+		<field id="CRED" len="2">IS</field>
+		<field id="COFICINA" len="4">9960</field>
+		<field id="CUSERID" len="8">IB000001</field>
+		<field id="CSUPERVID" len="8">        </field>
+		<field id="GSECONDT" len="1"> </field>
+		<field id="GAUTORIZ" len="1">N</field>
+		<field id="CLOG-EXT" len="7">0000000</field>
+		<field id="CLOG-TERM-EXT" len="7">0000000</field>
+		<field id="GEXT" len="1">N</field>
+		<field id="GCAS" len="1">N</field>
+		<field id="QSEQ" len="1">1</field>
+		<field id="PROGRAMA" len="8">RNCOEXCA</field>
+		<field id="LAYOUT-INP" len="8">RNCOEXCA</field>
+		<field id="TRAMA-TOLD" len="1">A</field>
+		<field id="IND-TXFIRMA" len="1">N</field>
+		<field id="FILLER" len="58">                                                          </field>
+		<field id="ECASH" len="838">
+			<!-- ECASH CABECERA -->
+			<field id="C-IDE-PROD">EC</field>
+			<field id="C-RC">00</field>
+			<field id="C-DES-RC">                                                                                </field>
+			<field id="C-IND-FUNC">S</field>
+			<field id="C-NUM-TEXT">000000000000</field>
+			<field id="C-COD-CANA">IS</field>
+			<field id="C-COD-USUA">IB000001</field>
+			<field id="C-COD-AGEN">996</field>
+			<!-- ECASH CABECERA -->
+			<!-- ECASH INPUT -->
+			<field id="I-NUM-PMC">000000000020</field>
+			<field id="I-FEC-PMC">20130606</field>
+			<field id="I-HOR-PMC">145400</field>
+			<field id="I-COD-TPMC">000020</field>
+			<field id="I-NUM-DNI">        </field>
+			<field id="I-TIP-TARJ">C</field>
+			<field id="I-NUM-TARJ" len="20">4218130500167619    </field>
+			<field id="I-NUM-CUEN" len="16">                </field>
+			<field id="I-COD-BANC">003</field>
+			<field id="I-COD-MONE">001</field>
+			<field id="I-TIP-PROD">002</field>
+			<field id="I-NUM-CUOT">18</field>
+			<field id="I-IMP-CUOT">000000000000000</field>
+			<field id="I-IMP-EXTR">000000000000000</field>
+			<field id="I-IMP-RETI">000000000000000</field>
+			<field id="I-IMP-DEPO">000000000000000</field>
+			<field id="I-IND-CNUE">N</field>
+			<field id="I-IND-DEPO">S</field>
+			<field id="I-IND-RETI">S</field>
+			<field id="I-DIS-FILLER">                                                                                  </field>
+			<!-- ECASH INPUT -->
+		</field>
+	</told91>
+	<told91 idOperacion="SIMULACION-TC-VISA-NSAT-4390460500017237">
+		<field id="CTRANS-DESP" len="4">RNMC</field>
+		<field id="CTRANSID" len="8">        </field>
+		<field id="CLOG-TERM" len="7">0000000</field>
+		<field id="FTERM" len="8">20130606</field>
+		<field id="HTERM" len="6">145400</field>
+		<field id="CRED" len="2">IS</field>
+		<field id="COFICINA" len="4">9960</field>
+		<field id="CUSERID" len="8">IB000001</field>
+		<field id="CSUPERVID" len="8">        </field>
+		<field id="GSECONDT" len="1"> </field>
+		<field id="GAUTORIZ" len="1">N</field>
+		<field id="CLOG-EXT" len="7">0000000</field>
+		<field id="CLOG-TERM-EXT" len="7">0000000</field>
+		<field id="GEXT" len="1">N</field>
+		<field id="GCAS" len="1">N</field>
+		<field id="QSEQ" len="1">1</field>
+		<field id="PROGRAMA" len="8">RNCOEXCA</field>
+		<field id="LAYOUT-INP" len="8">RNCOEXCA</field>
+		<field id="TRAMA-TOLD" len="1">A</field>
+		<field id="IND-TXFIRMA" len="1">N</field>
+		<field id="FILLER" len="58">                                                          </field>
+		<field id="ECASH" len="838">
+			<!-- ECASH CABECERA -->
+			<field id="C-IDE-PROD">EC</field>
+			<field id="C-RC">00</field>
+			<field id="C-DES-RC">                                                                                </field>
+			<field id="C-IND-FUNC">S</field>
+			<field id="C-NUM-TEXT">000000000000</field>
+			<field id="C-COD-CANA">IS</field>
+			<field id="C-COD-USUA">IB000001</field>
+			<field id="C-COD-AGEN">996</field>
+			<!-- ECASH CABECERA -->
+			<!-- ECASH INPUT -->
+			<field id="I-NUM-PMC">000000000020</field>
+			<field id="I-FEC-PMC">20130606</field>
+			<field id="I-HOR-PMC">145400</field>
+			<field id="I-COD-TPMC">000020</field>
+			<field id="I-NUM-DNI">        </field>
+			<field id="I-TIP-TARJ">C</field>
+			<field id="I-NUM-TARJ" len="20">4390460500017237    </field>
+			<field id="I-NUM-CUEN" len="16">                </field>
+			<field id="I-COD-BANC">003</field>
+			<field id="I-COD-MONE">001</field>
+			<field id="I-TIP-PROD">002</field>
+			<field id="I-NUM-CUOT">18</field>
+			<field id="I-IMP-CUOT">000000000000000</field>
+			<field id="I-IMP-EXTR">000000000000000</field>
+			<field id="I-IMP-RETI">000000000000000</field>
+			<field id="I-IMP-DEPO">000000000000000</field>
+			<field id="I-IND-CNUE">N</field>
+			<field id="I-IND-DEPO">S</field>
+			<field id="I-IND-RETI">S</field>
+			<field id="I-DIS-FILLER">                                                                                  </field>
+			<!-- ECASH INPUT -->
+		</field>
+	</told91>
+	<told91 idOperacion="SIMULACION-TC-VISA-NSAT-4218130500190637">
+		<field id="CTRANS-DESP" len="4">RNMC</field>
+		<field id="CTRANSID" len="8">        </field>
+		<field id="CLOG-TERM" len="7">0000000</field>
+		<field id="FTERM" len="8">20130606</field>
+		<field id="HTERM" len="6">145400</field>
+		<field id="CRED" len="2">IS</field>
+		<field id="COFICINA" len="4">9960</field>
+		<field id="CUSERID" len="8">IB000001</field>
+		<field id="CSUPERVID" len="8">        </field>
+		<field id="GSECONDT" len="1"> </field>
+		<field id="GAUTORIZ" len="1">N</field>
+		<field id="CLOG-EXT" len="7">0000000</field>
+		<field id="CLOG-TERM-EXT" len="7">0000000</field>
+		<field id="GEXT" len="1">N</field>
+		<field id="GCAS" len="1">N</field>
+		<field id="QSEQ" len="1">1</field>
+		<field id="PROGRAMA" len="8">RNCOEXCA</field>
+		<field id="LAYOUT-INP" len="8">RNCOEXCA</field>
+		<field id="TRAMA-TOLD" len="1">A</field>
+		<field id="IND-TXFIRMA" len="1">N</field>
+		<field id="FILLER" len="58">                                                          </field>
+		<field id="ECASH" len="838">
+			<!-- ECASH CABECERA -->
+			<field id="C-IDE-PROD">EC</field>
+			<field id="C-RC">00</field>
+			<field id="C-DES-RC">                                                                                </field>
+			<field id="C-IND-FUNC">S</field>
+			<field id="C-NUM-TEXT">000000000000</field>
+			<field id="C-COD-CANA">IS</field>
+			<field id="C-COD-USUA">IB000001</field>
+			<field id="C-COD-AGEN">996</field>
+			<!-- ECASH CABECERA -->
+			<!-- ECASH INPUT -->
+			<field id="I-NUM-PMC">000000000020</field>
+			<field id="I-FEC-PMC">20130606</field>
+			<field id="I-HOR-PMC">145400</field>
+			<field id="I-COD-TPMC">000020</field>
+			<field id="I-NUM-DNI">        </field>
+			<field id="I-TIP-TARJ">C</field>
+			<field id="I-NUM-TARJ" len="20">4218130500190637    </field>
+			<field id="I-NUM-CUEN" len="16">                </field>
+			<field id="I-COD-BANC">003</field>
+			<field id="I-COD-MONE">001</field>
+			<field id="I-TIP-PROD">002</field>
+			<field id="I-NUM-CUOT">18</field>
+			<field id="I-IMP-CUOT">000000000000000</field>
+			<field id="I-IMP-EXTR">000000000000000</field>
+			<field id="I-IMP-RETI">000000000000000</field>
+			<field id="I-IMP-DEPO">000000000000000</field>
+			<field id="I-IND-CNUE">N</field>
+			<field id="I-IND-DEPO">S</field>
+			<field id="I-IND-RETI">S</field>
+			<field id="I-DIS-FILLER">                                                                                  </field>
+			<!-- ECASH INPUT -->
+		</field>
+	</told91>
+	<told91 idOperacion="SIMULACION-TC-VISA-NSAT-4218130500193441">
+		<field id="CTRANS-DESP" len="4">RNMC</field>
+		<field id="CTRANSID" len="8">        </field>
+		<field id="CLOG-TERM" len="7">0000000</field>
+		<field id="FTERM" len="8">20130606</field>
+		<field id="HTERM" len="6">145400</field>
+		<field id="CRED" len="2">IS</field>
+		<field id="COFICINA" len="4">9960</field>
+		<field id="CUSERID" len="8">IB000001</field>
+		<field id="CSUPERVID" len="8">        </field>
+		<field id="GSECONDT" len="1"> </field>
+		<field id="GAUTORIZ" len="1">N</field>
+		<field id="CLOG-EXT" len="7">0000000</field>
+		<field id="CLOG-TERM-EXT" len="7">0000000</field>
+		<field id="GEXT" len="1">N</field>
+		<field id="GCAS" len="1">N</field>
+		<field id="QSEQ" len="1">1</field>
+		<field id="PROGRAMA" len="8">RNCOEXCA</field>
+		<field id="LAYOUT-INP" len="8">RNCOEXCA</field>
+		<field id="TRAMA-TOLD" len="1">A</field>
+		<field id="IND-TXFIRMA" len="1">N</field>
+		<field id="FILLER" len="58">                                                          </field>
+		<field id="ECASH" len="838">
+			<!-- ECASH CABECERA -->
+			<field id="C-IDE-PROD">EC</field>
+			<field id="C-RC">00</field>
+			<field id="C-DES-RC">                                                                                </field>
+			<field id="C-IND-FUNC">S</field>
+			<field id="C-NUM-TEXT">000000000000</field>
+			<field id="C-COD-CANA">IS</field>
+			<field id="C-COD-USUA">IB000001</field>
+			<field id="C-COD-AGEN">996</field>
+			<!-- ECASH CABECERA -->
+			<!-- ECASH INPUT -->
+			<field id="I-NUM-PMC">000000000020</field>
+			<field id="I-FEC-PMC">20130606</field>
+			<field id="I-HOR-PMC">145400</field>
+			<field id="I-COD-TPMC">000020</field>
+			<field id="I-NUM-DNI">        </field>
+			<field id="I-TIP-TARJ">C</field>
+			<field id="I-NUM-TARJ" len="20">4218130500193441    </field>
+			<field id="I-NUM-CUEN" len="16">                </field>
+			<field id="I-COD-BANC">003</field>
+			<field id="I-COD-MONE">001</field>
+			<field id="I-TIP-PROD">002</field>
+			<field id="I-NUM-CUOT">18</field>
+			<field id="I-IMP-CUOT">000000000000000</field>
+			<field id="I-IMP-EXTR">000000000000000</field>
+			<field id="I-IMP-RETI">000000000000000</field>
+			<field id="I-IMP-DEPO">000000000000000</field>
+			<field id="I-IND-CNUE">N</field>
+			<field id="I-IND-DEPO">S</field>
+			<field id="I-IND-RETI">S</field>
+			<field id="I-DIS-FILLER">                                                                                  </field>
+			<!-- ECASH INPUT -->
+		</field>
+	</told91>
+	<told91 idOperacion="SIMULACION-TC-VISA-NSAT-4218130500193920">
+		<field id="CTRANS-DESP" len="4">RNMC</field>
+		<field id="CTRANSID" len="8">        </field>
+		<field id="CLOG-TERM" len="7">0000000</field>
+		<field id="FTERM" len="8">20130606</field>
+		<field id="HTERM" len="6">145400</field>
+		<field id="CRED" len="2">IS</field>
+		<field id="COFICINA" len="4">9960</field>
+		<field id="CUSERID" len="8">IB000001</field>
+		<field id="CSUPERVID" len="8">        </field>
+		<field id="GSECONDT" len="1"> </field>
+		<field id="GAUTORIZ" len="1">N</field>
+		<field id="CLOG-EXT" len="7">0000000</field>
+		<field id="CLOG-TERM-EXT" len="7">0000000</field>
+		<field id="GEXT" len="1">N</field>
+		<field id="GCAS" len="1">N</field>
+		<field id="QSEQ" len="1">1</field>
+		<field id="PROGRAMA" len="8">RNCOEXCA</field>
+		<field id="LAYOUT-INP" len="8">RNCOEXCA</field>
+		<field id="TRAMA-TOLD" len="1">A</field>
+		<field id="IND-TXFIRMA" len="1">N</field>
+		<field id="FILLER" len="58">                                                          </field>
+		<field id="ECASH" len="838">
+			<!-- ECASH CABECERA -->
+			<field id="C-IDE-PROD">EC</field>
+			<field id="C-RC">00</field>
+			<field id="C-DES-RC">                                                                                </field>
+			<field id="C-IND-FUNC">S</field>
+			<field id="C-NUM-TEXT">000000000000</field>
+			<field id="C-COD-CANA">IS</field>
+			<field id="C-COD-USUA">IB000001</field>
+			<field id="C-COD-AGEN">996</field>
+			<!-- ECASH CABECERA -->
+			<!-- ECASH INPUT -->
+			<field id="I-NUM-PMC">000000000020</field>
+			<field id="I-FEC-PMC">20130606</field>
+			<field id="I-HOR-PMC">145400</field>
+			<field id="I-COD-TPMC">000020</field>
+			<field id="I-NUM-DNI">        </field>
+			<field id="I-TIP-TARJ">C</field>
+			<field id="I-NUM-TARJ" len="20">4218130500193920    </field>
+			<field id="I-NUM-CUEN" len="16">                </field>
+			<field id="I-COD-BANC">003</field>
+			<field id="I-COD-MONE">001</field>
+			<field id="I-TIP-PROD">002</field>
+			<field id="I-NUM-CUOT">18</field>
+			<field id="I-IMP-CUOT">000000000000000</field>
+			<field id="I-IMP-EXTR">000000000000000</field>
+			<field id="I-IMP-RETI">000000000000000</field>
+			<field id="I-IMP-DEPO">000000000000000</field>
+			<field id="I-IND-CNUE">N</field>
+			<field id="I-IND-DEPO">S</field>
+			<field id="I-IND-RETI">S</field>
+			<field id="I-DIS-FILLER">                                                                                  </field>
+			<!-- ECASH INPUT -->
+		</field>
+	</told91>
+	<told91 idOperacion="SIMULACION-TC-MASTERCARD-ASAT-5444027995645005">
+		<field id="CTRANS-DESP" len="4">RNMC</field>
+		<field id="CTRANSID" len="8">        </field>
+		<field id="CLOG-TERM" len="7">0000000</field>
+		<field id="FTERM" len="8">20130606</field>
+		<field id="HTERM" len="6">145400</field>
+		<field id="CRED" len="2">IS</field>
+		<field id="COFICINA" len="4">9960</field>
+		<field id="CUSERID" len="8">IB000001</field>
+		<field id="CSUPERVID" len="8">        </field>
+		<field id="GSECONDT" len="1"> </field>
+		<field id="GAUTORIZ" len="1">N</field>
+		<field id="CLOG-EXT" len="7">0000000</field>
+		<field id="CLOG-TERM-EXT" len="7">0000000</field>
+		<field id="GEXT" len="1">N</field>
+		<field id="GCAS" len="1">N</field>
+		<field id="QSEQ" len="1">1</field>
+		<field id="PROGRAMA" len="8">RNCOEXCA</field>
+		<field id="LAYOUT-INP" len="8">RNCOEXCA</field>
+		<field id="TRAMA-TOLD" len="1">A</field>
+		<field id="IND-TXFIRMA" len="1">N</field>
+		<field id="FILLER" len="58">                                                          </field>
+		<field id="ECASH" len="838">
+			<!-- ECASH CABECERA -->
+			<field id="C-IDE-PROD">EC</field>
+			<field id="C-RC">00</field>
+			<field id="C-DES-RC">                                                                                </field>
+			<field id="C-IND-FUNC">S</field>
+			<field id="C-NUM-TEXT">000000000000</field>
+			<field id="C-COD-CANA">IS</field>
+			<field id="C-COD-USUA">IB000001</field>
+			<field id="C-COD-AGEN">996</field>
+			<!-- ECASH CABECERA -->
+			<!-- ECASH INPUT -->
+			<field id="I-NUM-PMC">000000000020</field>
+			<field id="I-FEC-PMC">20130606</field>
+			<field id="I-HOR-PMC">145400</field>
+			<field id="I-COD-TPMC">000020</field>
+			<field id="I-NUM-DNI">        </field>
+			<field id="I-TIP-TARJ">C</field>
+			<field id="I-NUM-TARJ" len="20">5444027995645005    </field>
+			<field id="I-NUM-CUEN" len="16">                </field>
+			<field id="I-COD-BANC">003</field>
+			<field id="I-COD-MONE">001</field>
+			<field id="I-TIP-PROD">002</field>
+			<field id="I-NUM-CUOT">18</field>
+			<field id="I-IMP-CUOT">000000000000000</field>
+			<field id="I-IMP-EXTR">000000000000000</field>
+			<field id="I-IMP-RETI">000000000000000</field>
+			<field id="I-IMP-DEPO">000000000000000</field>
+			<field id="I-IND-CNUE">N</field>
+			<field id="I-IND-DEPO">S</field>
+			<field id="I-IND-RETI">S</field>
+			<field id="I-DIS-FILLER">                                                                                  </field>
+			<!-- ECASH INPUT -->
+		</field>
+	</told91>
+	<told91 idOperacion="SIMULACION-TC-AMERICAN-EXPRESS-ASAT-377752600000245">
+		<field id="CTRANS-DESP" len="4">RNMC</field>
+		<field id="CTRANSID" len="8">        </field>
+		<field id="CLOG-TERM" len="7">0000000</field>
+		<field id="FTERM" len="8">20130606</field>
+		<field id="HTERM" len="6">145400</field>
+		<field id="CRED" len="2">IS</field>
+		<field id="COFICINA" len="4">9960</field>
+		<field id="CUSERID" len="8">IB000001</field>
+		<field id="CSUPERVID" len="8">        </field>
+		<field id="GSECONDT" len="1"> </field>
+		<field id="GAUTORIZ" len="1">N</field>
+		<field id="CLOG-EXT" len="7">0000000</field>
+		<field id="CLOG-TERM-EXT" len="7">0000000</field>
+		<field id="GEXT" len="1">N</field>
+		<field id="GCAS" len="1">N</field>
+		<field id="QSEQ" len="1">1</field>
+		<field id="PROGRAMA" len="8">RNCOEXCA</field>
+		<field id="LAYOUT-INP" len="8">RNCOEXCA</field>
+		<field id="TRAMA-TOLD" len="1">A</field>
+		<field id="IND-TXFIRMA" len="1">N</field>
+		<field id="FILLER" len="58">                                                          </field>
+		<field id="ECASH" len="838">
+			<!-- ECASH CABECERA -->
+			<field id="C-IDE-PROD">EC</field>
+			<field id="C-RC">00</field>
+			<field id="C-DES-RC">                                                                                </field>
+			<field id="C-IND-FUNC">S</field>
+			<field id="C-NUM-TEXT">000000000000</field>
+			<field id="C-COD-CANA">IS</field>
+			<field id="C-COD-USUA">IB000001</field>
+			<field id="C-COD-AGEN">996</field>
+			<!-- ECASH CABECERA -->
+			<!-- ECASH INPUT -->
+			<field id="I-NUM-PMC">000000000020</field>
+			<field id="I-FEC-PMC">20130606</field>
+			<field id="I-HOR-PMC">145400</field>
+			<field id="I-COD-TPMC">000020</field>
+			<field id="I-NUM-DNI">        </field>
+			<field id="I-TIP-TARJ">C</field>
+			<field id="I-NUM-TARJ" len="20">377752600000245     </field>
+			<field id="I-NUM-CUEN" len="16">                </field>
+			<field id="I-COD-BANC">003</field>
+			<field id="I-COD-MONE">001</field>
+			<field id="I-TIP-PROD">002</field>
+			<field id="I-NUM-CUOT">18</field>
+			<field id="I-IMP-CUOT">000000000000000</field>
+			<field id="I-IMP-EXTR">000000000000000</field>
+			<field id="I-IMP-RETI">000000000000000</field>
+			<field id="I-IMP-DEPO">000000000000000</field>
+			<field id="I-IND-CNUE">N</field>
+			<field id="I-IND-DEPO">S</field>
+			<field id="I-IND-RETI">S</field>
+			<field id="I-DIS-FILLER">                                                                                  </field>
+			<!-- ECASH INPUT -->
+		</field>
+	</told91>
+	<told91 idOperacion="SIMULACION-TC-AMERICAN-EXPRESS-ASAT-377752600000583">
+		<field id="CTRANS-DESP" len="4">RNMC</field>
+		<field id="CTRANSID" len="8">        </field>
+		<field id="CLOG-TERM" len="7">0000000</field>
+		<field id="FTERM" len="8">20130606</field>
+		<field id="HTERM" len="6">145400</field>
+		<field id="CRED" len="2">IS</field>
+		<field id="COFICINA" len="4">9960</field>
+		<field id="CUSERID" len="8">IB000001</field>
+		<field id="CSUPERVID" len="8">        </field>
+		<field id="GSECONDT" len="1"> </field>
+		<field id="GAUTORIZ" len="1">N</field>
+		<field id="CLOG-EXT" len="7">0000000</field>
+		<field id="CLOG-TERM-EXT" len="7">0000000</field>
+		<field id="GEXT" len="1">N</field>
+		<field id="GCAS" len="1">N</field>
+		<field id="QSEQ" len="1">1</field>
+		<field id="PROGRAMA" len="8">RNCOEXCA</field>
+		<field id="LAYOUT-INP" len="8">RNCOEXCA</field>
+		<field id="TRAMA-TOLD" len="1">A</field>
+		<field id="IND-TXFIRMA" len="1">N</field>
+		<field id="FILLER" len="58">                                                          </field>
+		<field id="ECASH" len="838">
+			<!-- ECASH CABECERA -->
+			<field id="C-IDE-PROD">EC</field>
+			<field id="C-RC">00</field>
+			<field id="C-DES-RC">                                                                                </field>
+			<field id="C-IND-FUNC">S</field>
+			<field id="C-NUM-TEXT">000000000000</field>
+			<field id="C-COD-CANA">IS</field>
+			<field id="C-COD-USUA">IB000001</field>
+			<field id="C-COD-AGEN">996</field>
+			<!-- ECASH CABECERA -->
+			<!-- ECASH INPUT -->
+			<field id="I-NUM-PMC">000000000020</field>
+			<field id="I-FEC-PMC">20130606</field>
+			<field id="I-HOR-PMC">145400</field>
+			<field id="I-COD-TPMC">000020</field>
+			<field id="I-NUM-DNI">        </field>
+			<field id="I-TIP-TARJ">C</field>
+			<field id="I-NUM-TARJ" len="20">377752600000583     </field>
+			<field id="I-NUM-CUEN" len="16">                </field>
+			<field id="I-COD-BANC">003</field>
+			<field id="I-COD-MONE">001</field>
+			<field id="I-TIP-PROD">002</field>
+			<field id="I-NUM-CUOT">18</field>
+			<field id="I-IMP-CUOT">000000000000000</field>
+			<field id="I-IMP-EXTR">000000000000000</field>
+			<field id="I-IMP-RETI">000000000000000</field>
+			<field id="I-IMP-DEPO">000000000000000</field>
+			<field id="I-IND-CNUE">N</field>
+			<field id="I-IND-DEPO">S</field>
+			<field id="I-IND-RETI">S</field>
+			<field id="I-DIS-FILLER">                                                                                  </field>
+			<!-- ECASH INPUT -->
+		</field>
+	</told91>
+	<told91 idOperacion="SIMULACION-TD-VISA-ASAT-4547750011379007">
+		<field id="CTRANS-DESP" len="4">RNMC</field>
+		<field id="CTRANSID" len="8">        </field>
+		<field id="CLOG-TERM" len="7">0000000</field>
+		<field id="FTERM" len="8">20130606</field>
+		<field id="HTERM" len="6">145400</field>
+		<field id="CRED" len="2">IS</field>
+		<field id="COFICINA" len="4">9960</field>
+		<field id="CUSERID" len="8">IB000001</field>
+		<field id="CSUPERVID" len="8">        </field>
+		<field id="GSECONDT" len="1"> </field>
+		<field id="GAUTORIZ" len="1">N</field>
+		<field id="CLOG-EXT" len="7">0000000</field>
+		<field id="CLOG-TERM-EXT" len="7">0000000</field>
+		<field id="GEXT" len="1">N</field>
+		<field id="GCAS" len="1">N</field>
+		<field id="QSEQ" len="1">1</field>
+		<field id="PROGRAMA" len="8">RNCOEXCA</field>
+		<field id="LAYOUT-INP" len="8">RNCOEXCA</field>
+		<field id="TRAMA-TOLD" len="1">A</field>
+		<field id="IND-TXFIRMA" len="1">N</field>
+		<field id="FILLER" len="58">                                                          </field>
+		<field id="ECASH" len="838">
+			<!-- ECASH CABECERA -->
+			<field id="C-IDE-PROD">EC</field>
+			<field id="C-RC">00</field>
+			<field id="C-DES-RC">                                                                                </field>
+			<field id="C-IND-FUNC">S</field>
+			<field id="C-NUM-TEXT">000000000000</field>
+			<field id="C-COD-CANA">IS</field>
+			<field id="C-COD-USUA">IB000001</field>
+			<field id="C-COD-AGEN">996</field>
+			<!-- ECASH CABECERA -->
+			<!-- ECASH INPUT -->
+			<field id="I-NUM-PMC">000000000020</field>
+			<field id="I-FEC-PMC">20130606</field>
+			<field id="I-HOR-PMC">145400</field>
+			<field id="I-COD-TPMC">000020</field>
+			<field id="I-NUM-DNI">        </field>
+			<field id="I-TIP-TARJ">D</field>
+			<field id="I-NUM-TARJ" len="20">4547750011379007    </field>
+			<field id="I-NUM-CUEN" len="16">                </field>
+			<field id="I-COD-BANC">003</field>
+			<field id="I-COD-MONE">001</field>
+			<field id="I-TIP-PROD">002</field>
+			<field id="I-NUM-CUOT">18</field>
+			<field id="I-IMP-CUOT">000000000000000</field>
+			<field id="I-IMP-EXTR">000000000000000</field>
+			<field id="I-IMP-RETI">000000000000000</field>
+			<field id="I-IMP-DEPO">000000000000000</field>
+			<field id="I-IND-CNUE">N</field>
+			<field id="I-IND-DEPO">S</field>
+			<field id="I-IND-RETI">S</field>
+			<field id="I-DIS-FILLER">                                                                                  </field>
+			<!-- ECASH INPUT -->
+		</field>
+	</told91>
+</host>
